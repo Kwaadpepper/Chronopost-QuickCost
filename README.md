@@ -4,6 +4,10 @@
 
 Chronopost QuickCostV3 WSDL php generated lib using https://github.com/WsdlToPhp/PackageGenerator
 
+```sh
+composer require kwaadpepper/chronopost-quickcost
+```
+
 This package will only contain generated content from chronopost endpoint https://ws.chronopost.fr/quickcost-cxf/QuickcostServiceWS?wsdl
 
     wsdltophp generate:package --namespace ChronopostQuickCost \
